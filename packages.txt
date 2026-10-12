@@ -1,0 +1,4 @@
+tesseract-ocr
+tesseract-ocr-ita
+libreoffice-writer
+fonts-liberation
